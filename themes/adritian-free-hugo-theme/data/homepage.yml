@@ -1,12 +1,12 @@
 head:
   title: "Chandan Pasunoori | Software Architect and Polygot Developer"
-  description: "Personal site for Chandan Pasunoori, Director of Product Engineering at Nitrogen (Nvizion Solutions Inc). With a background as computer engineer and experience both as a web and mobile developer and team lead, in multi-cultural environments in Spain, the Netherlands and Denmark. You can find contact information, as well as availability for work, up-to-date curriculum and previous experience."
+  description: "Personal site for Chandan Pasunoori, Director of Product Engineering at Nitrogen (Nvizion Solutions Inc). With a background in computer engineering and experience as both a backend developer and software architect in multi-cultural environments in India and the United States, you can find contact information, availability for work, an up-to-date curriculum, and previous experience."
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Chandan."
+  title: "Hello, I'm Chandan."
   subtitle: "Software Developer"
-  description: "Based in Portlan, Oregon 🇺🇸, I work at <a target='_blank' href='https://www.n7.io/'>Nitrogen</a>, a cloud company focused in accelating ecommerce businesses, whose vision is <em>to create a best user experience for online online shopping users</em>. <br/>My background is diverse, as a <strong>specialized generalist</strong>. In technology I have a wide range of experiences: from development, architechure, cloud, as well as individual contributor or leading teams. I apply the 3P's (People, Product, Process) to my work, and I am passionate about contributing to healthy teams that work in iterative improvements."
+  description: "Currently based in Portland, Oregon 🇺🇸, I work at <a target='_blank' href='https://www.n7.io/'>Nitrogen</a>, a cloud company focused on accelerating ecommerce businesses. Our vision is to create the best user experience for online shopping users. My background is diverse as a specialized generalist. In technology, I have a wide range of experiences, from development and architecture to cloud services. I have worked both as an individual contributor and in leadership roles. I apply the 3P's (People, Product, Process) to my work, and I am passionate about contributing to healthy teams that focus on iterative improvements."
   image:
     alt: "Profile picture of Adrián Moreno Peña (@zetxek), smiling over a petroleum color background"
     x: "images/chandan.jpg"
@@ -38,13 +38,13 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am an engineer by formation, curious and energetic - that applies technology to solve real-world problems. Personally, I’m a very easy going, sociable, fast-learner, curious and natural leader. I do what I love, and I love what I do. I lead by example and work side by side with my teams.
+    As an experienced engineer, I thrive on applying technology to solve complex real-world problems. I bring a blend of curiosity, energy, and a strong work ethic to everything I do. Known for being sociable and easy-going, I excel at learning quickly and leading teams by example, always working alongside them to achieve our goals.
     </p>
     <p class="lead">
-    I am a deliberate <em>jack of all trades, master of none</em>. My profile is a hybrid of technical and managerial experience, but always related to technological projects. I bring business and product vision to tech teams, partly thanks to having started an developed a company. I am a fast learner, curious to see how technology can improve the users experience in multiple areas. I have a strong motivation and sense of responsibility with myself, my team and clients (or peers), and people like my positive and easy going, can-do attitude.
+        I embrace the role of a <em>jack of all trades, master of none</em>, combining technical and managerial skills to drive technological projects forward. My background includes founding and growing a company, which has honed my ability to bring both business and product perspectives to tech teams. I am driven by a deep curiosity about how technology can enhance user experiences and a strong commitment to my team, clients, and peers. My positive, can-do attitude and collaborative spirit are well-regarded.
     </p>
-    <p class="lead">    
-    On the technical side, I’m a <em>specialized generalist</em>, always working between different areas and aiming to develop a holistic vision on what is involved into creating a successful tech product: mobile and web development, devops/SRE,... This has involved a variety of languages and frameworks in the web-side, both in the backend and in the client side.
+    <p class="lead">
+        Technically, I am a <em>seasoned software developer, architect, and polyglot programmer</em> with a deep expertise in cloud architecture. My experience spans web development, cloud computing, IoT, distributed systems, and payment gateways, using a variety of programming languages, technologies, and frameworks. I strive to maintain a holistic view of what it takes to create successful technology products, ensuring that I can contribute effectively across different domains.
     </p>'
 
   button:
