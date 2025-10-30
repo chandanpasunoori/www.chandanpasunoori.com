@@ -202,20 +202,17 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "https://formspree.io/f/mwpeeoln"
+    action: "https://formspree.io/f/chandanpasunoori"
     method: "POST"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
-  phone:
-    title: "Phone Number"
-    number: +1 (971) 404-5853'
   email:
     title: "Email"
     email: '<a href="mailto:chandanpasunoori@gmail.com">chandanpasunoori@gmail.com</a>'
   address:
     title: "Location"
-    address: "Portland (Oregon)"
+    address: "McLean (Virginia)"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
