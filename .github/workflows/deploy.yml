@@ -64,9 +64,9 @@ jobs:
       #     AWS_REGION: "eu-central-1" # optional: defaults to us-east-1
       #     SOURCE_DIR: "public" # optional: defaults to entire repository
 
-      - name: Deploy to GH Pages
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+      # - name: Deploy to GH Pages
+      #   uses: peaceiris/actions-gh-pages@v3
+      #   if: github.ref == 'refs/heads/main'
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     publish_dir: ./public
