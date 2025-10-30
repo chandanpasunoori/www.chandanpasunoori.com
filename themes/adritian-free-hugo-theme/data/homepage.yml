@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I'm Chandan."
   subtitle: "Software Developer"
-  description: "Currently based in Portland, Oregon 🇺🇸, I work at <a target='_blank' href='https://www.n7.io/'>Nitrogen</a>, a cloud company focused on accelerating ecommerce businesses. Our vision is to create the best user experience for online shopping users. My background is diverse as a specialized generalist. In technology, I have a wide range of experiences, from development and architecture to cloud services. I have worked both as an individual contributor and in leadership roles. I apply the 3P's (People, Product, Process) to my work, and I am passionate about contributing to healthy teams that focus on iterative improvements."
+  description: "Currently based in McLean, Virginia 🇺🇸, I work at <a target='_blank' href='https://www.n7.io/'>Nitrogen</a>, a cloud company focused on accelerating ecommerce businesses. Our vision is to create the best user experience for online shopping users. My background is diverse as a specialized generalist. In technology, I have a wide range of experiences, from development and architecture to cloud services. I have worked both as an individual contributor and in leadership roles. I apply the 3P's (People, Product, Process) to my work, and I love taking ideas from zero to reality, designing, building, and scaling products that solve hard problems. Whether it’s architecting new systems or transforming existing ones, I focus on creating clear, maintainable, and forward-looking solutions."
   image:
     alt: "Profile picture of Adrián Moreno Peña (@zetxek), smiling over a petroleum color background"
     x: "images/chandan.jpg"
@@ -212,7 +212,7 @@ contact:
     email: '<a href="mailto:chandanpasunoori@gmail.com">chandanpasunoori@gmail.com</a>'
   address:
     title: "Location"
-    address: "McLean (Virginia)"
+    address: "McLean, Virginia"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
